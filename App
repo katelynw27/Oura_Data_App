@@ -1,0 +1,8 @@
+import streamlit as st
+import requests
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Placeholder for Oura API token (You'll need to replace this with actual authentication)
+OURA_ACCESS_TOKEN = "your_oura_access_token_here"
+OURA_API_URL = "https://api.ouraring.com/v1"
